@@ -17,7 +17,7 @@ Each video is a sequence of 30 frames (or images)
 ## Understanding the Dataset
 The training data consists of a few hundred videos categorised into one of the five classes. Each video (typically 2-3 seconds long) is divided into a sequence of 30 frames(images). These videos have been recorded by various people performing one of the five gestures in front of a webcam - similar to what the smart TV will use. 
 
-The data contains a 'train' and a 'val' folder with two CSV files for the two folders.
+The data contains a 'train' and a 'val' folder with two CSV files for the two folders. Project_data (https://shorturl.at/hrzY4)
 
 ## Model Overview
 
